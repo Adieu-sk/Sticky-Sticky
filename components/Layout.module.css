@@ -1,0 +1,44 @@
+.container {
+  max-width: 120rem;
+  padding: 0 2rem;
+  margin: 3rem auto;
+}
+
+.title {
+  text-align: center;
+  font-size: 4rem;
+}
+
+.endingLink {
+  text-align: right;
+  font-size: 1.5rem;
+}
+
+.backToHome {
+  margin: 5rem 0 0;
+  font-size: 1.5rem;
+}
+
+@media screen and (max-width: 48rem) {
+  .title {
+    text-align: center;
+    font-size: 2.4rem;
+  }
+
+  .endingLink {
+    text-align: right;
+    font-size: 1.5rem;
+  }
+}
+
+@media screen and (max-width: 60rem) {
+  .title {
+    text-align: center;
+    font-size: 2.4rem;
+  }
+
+  .backToHome {
+    margin: 5rem 0 0;
+    font-size: 1.2rem;
+  }
+}

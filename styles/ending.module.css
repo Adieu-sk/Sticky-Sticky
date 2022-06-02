@@ -1,0 +1,15 @@
+.text {
+  text-align: center;
+  font-size: 2rem;
+}
+
+.padding {
+  padding: 1rem;
+}
+
+@media screen and (max-width: 60rem) {
+  .text {
+    text-align: center;
+    font-size: 1.05rem;
+  }
+}

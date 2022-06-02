@@ -1,0 +1,40 @@
+.baseSticky {
+  text-decoration: none;
+  padding: 1rem;
+  background: #fffff9;
+  border-left: solid 1rem #000000;
+  color: #000000;
+  box-shadow: 0.6rem 0.6rem 0.6rem rgba(0, 0, 0, 0.22);
+}
+
+.sticky {
+  text-decoration: none;
+  padding: 1rem;
+  background: #ffffff;
+  border-left: solid 0.8rem #000000;
+  color: #000000;
+  box-shadow: 0.5rem 0.5rem 0.5rem rgba(0, 0, 0, 0.22);
+}
+
+.subHead {
+  font-size: 2rem;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.marginRight {
+  margin-right: 2rem;
+}
+
+.marginTop {
+  margin-top: 1rem;
+}
+
+@media screen and (max-width: 48rem) {
+  .subHead {
+    font-size: 1rem;
+  }
+}
