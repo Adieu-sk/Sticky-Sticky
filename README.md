@@ -4,7 +4,7 @@
 
 # デプロイ
 
-ぜひ[こちら](sticky-sticky.vercel.app)からお試しください。
+ぜひ[こちら](https://sticky-sticky.vercel.app/)からお試しください。
 
 # 特徴
 
