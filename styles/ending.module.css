@@ -1,6 +1,7 @@
 .text {
   text-align: center;
   font-size: 2rem;
+  color: #474b42;
 }
 
 .padding {
@@ -11,5 +12,6 @@
   .text {
     text-align: center;
     font-size: 1.05rem;
+    color: #474b42;
   }
 }

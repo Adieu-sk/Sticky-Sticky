@@ -11,8 +11,8 @@
   text-decoration: none;
   padding: 1rem;
   background: #f7f6fb;
-  border-left: solid 1.2rem #000000;
-  color: #000000;
+  border-left: solid 1.2rem #6b6f59;
+  color: #6b6f59;
   box-shadow: 0.6rem 0.6rem 0.6rem rgba(0, 0, 0, 0.22);
 }
 
@@ -30,8 +30,8 @@
     text-decoration: none;
     padding: 1rem;
     background: #f7f6fb;
-    border-left: solid 1.2rem #000000;
-    color: #000000;
+    border-left: solid 1.2rem #6b6f59;
+    color: #6b6f59;
     box-shadow: 0.6rem 0.6rem 0.6rem rgba(0, 0, 0, 0.22);
   }
 }

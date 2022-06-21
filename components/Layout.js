@@ -11,29 +11,21 @@ export default function Layout({ children, home }) {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="/apple-touch-icon.png"
+          href="./apple-touch-icon.png"
         />
         <link
           rel="icon"
           type="image/png"
           sizes="32x32"
-          href="/favicon-32x32.png"
+          href="./favicon-32x32.png"
         />
         <link
           rel="icon"
           type="image/png"
           sizes="16x16"
-          href="/favicon-16x16.png"
+          href="./favicon-16x16.png"
         />
-        <link rel="manifest" href="/site.webmanifest" />
-        <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5" />
-        <link rel="shortcut icon" href="/favicons/favicon.ico" />
-        <meta name="msapplication-TileColor" content="#da532c" />
-        <meta
-          name="msapplication-config"
-          content="/favicons/browserconfig.xml"
-        />
-        <meta name="theme-color" content="#c49a6a" />
+        <link rel="manifest" href="./site.webmanifest" />
         <meta
           name="description"
           content="付箋に付箋を重ねて貼る!Todoアプリです!!"
